@@ -1,7 +1,7 @@
 # sudoku-validator-cli
 Sudoku puzzle validator cli
 
-###Run command: validate.bat [filename]
+### Run command: validate.bat [filename]
 <desc>Notes: Rename validate.bat_rename to validate.bat 
 <br/> run mvn clean package from directory where pom.xml is.
 <br/>
